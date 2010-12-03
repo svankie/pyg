@@ -1,0 +1,36 @@
+# structure (alpha)
+
+|-- bin
+|   `-- pyg
+|-- lib
+|   |-- pyg
+|   |   |-- field
+|   |   |   `-- example.py
+|   |   |-- inout
+|   |   |   `-- example.py
+|   |   |-- interpreter.py
+|   |   |-- param
+|   |   |   `-- example.py
+|   |   |-- relation
+|   |   |   `-- example.py
+|   |   |-- schema
+|   |   |   |-- example.py
+|   |   |   `-- another_example.py
+|   |   `-- udf
+|   |       `-- example.py
+|   `-- pyg.py
+|-- LICENSE
+|-- README
+|-- spec
+|   |-- pyg
+|   |   |-- field
+|   |   |   `-- example_spec.py
+|   |   |-- interpreter_spec.py
+|   |   |-- relation
+|   |   |   `-- example_spec.py
+|   |   `-- schema
+|   |       `-- example_spec.py
+|   `-- spec.opts
+`-- tasks
+    `-- example.rake
+
